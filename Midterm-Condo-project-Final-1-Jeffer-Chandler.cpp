@@ -1,6 +1,6 @@
 /*****************************************
 Computer science midterm project Condo data base
-Jeffer P, Chandler Lei
+Jeffer Jingfei P
 ICS4U1
 Dr.N
 Jan.11th, 2017
